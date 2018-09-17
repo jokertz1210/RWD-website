@@ -101,9 +101,9 @@ box-sizing: border-box;
 	height: auto;
 }
 .header h1 a{
-	background-image: url(../images/六角-Logo綠.png);
-	width: 173px;
-	height: 36px;
+	background-image: url(../images/logo.png);
+	width: 243px;
+	height: 48px;
 	display: block;
 	float: left;
 	margin-top: 10px;
